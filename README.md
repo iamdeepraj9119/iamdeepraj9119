@@ -1,3 +1,6 @@
+## 👋 Hi there
+
+## 🧑‍💻 About Me
 👋 Hi, I'm Deepraj Srivastav — a Data Analyst driven by curiosity and a deep passion for turning raw data into meaningful insights. I specialize in uncovering patterns, solving real-world problems, and helping teams make smarter, data-backed decisions. Whether it’s building dashboards, running statistical models, or wrangling messy datasets — I love the challenge.
 
 💡 Always learning, always optimizing. Let's turn data into action.
